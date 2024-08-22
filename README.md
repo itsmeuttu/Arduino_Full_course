@@ -31,3 +31,20 @@
 
 - [What if You dont have Arduino](Contents/What_if_you_dont_have_Arduino.md)
 
+- [Input and Output](Contents/Input_&_Output.md)
+
+- [Analog and Ditgital](Contents/Analog_&_Digital.md)
+
+- [Sensors](Contents/Sensors.md)
+
+- [Bit & Byte](Contents/Bit_&_Byte.md)
+
+### Section C
+
+- [Arduino Programming Introduction](Contents/Arduino_programming.md)
+
+- [Variables](Contents/Variables.md)
+
+- [Data Type](Contents/Data_type.md)
+
+- [Variables Scope & Qualifiers]()
