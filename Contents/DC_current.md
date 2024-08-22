@@ -1,3 +1,5 @@
+## DC Current
+
 DC (Direct Current) is the flow of electric charge in one constant direction. It maintains a steady voltage and current level, typically produced by batteries or power supplies. Unlike AC, DC does not alternate in direction. 
 
 or 

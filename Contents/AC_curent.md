@@ -1,3 +1,5 @@
+## AC Current
+
 AC (Alternating Current) is the flow of electric charge that periodically reverses direction. It is the type of current commonly used in household power outlets. 
 
 or 

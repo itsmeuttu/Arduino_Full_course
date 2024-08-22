@@ -1,3 +1,5 @@
+## Current
+
 The rate of flow of charge is known as current. When an electron moves from negative terminal to positive terminal of battery. The give rise to current.
 
 Unit of current is **Ampere**. It is denoted by **amp**
