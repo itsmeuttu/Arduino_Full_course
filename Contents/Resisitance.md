@@ -3,6 +3,6 @@
 
 
 
-A **resistor** is a component used in electrical circuits to limit or regulate the flow of current. It is specifically designed to introduce a known amount of resistance into the circuit.
+A **Resistor** is a component used in electrical circuits to limit or regulate the flow of current. It is specifically designed to introduce a known amount of resistance into the circuit.
 
-![alt text](Images/image-1hhdr.png)
+![alt text](<../Images/image copy 7.png>)

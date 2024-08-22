@@ -6,5 +6,5 @@ flow of electrons stay in same direction and voltage stays steady with the same 
 
 eg: Battery 
 
-![Battery ](<Images/image copy 4.png>)
+![alt text](<../Images/image copy 4.png>)
 

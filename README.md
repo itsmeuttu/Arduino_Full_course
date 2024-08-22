@@ -8,7 +8,7 @@
 
  - [Current](Contents/Current.md)
 
- - [Resistance](Resisitance.md)
+ - [Resistance](Contents/Resisitance.md)
 
  - [Ohm's Law]()
 

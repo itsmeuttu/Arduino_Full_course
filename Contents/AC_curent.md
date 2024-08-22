@@ -6,5 +6,5 @@ Flow of electron change and voltage is not steady
 
 An example of AC current is the electricity supplied to homes and businesses for powering appliances like refrigerators and televisions.
 
-![alt text](Images/imagehj.png)
+![alt text](<../Images/image copy.png>)
 
