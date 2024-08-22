@@ -20,4 +20,9 @@
 
  ### Section B
 
- 
+- [Intro to Arduino Board](Contents/Intro_to_Arduino.md)
+
+- [Microcontroller and MicroProcessor](Contents/MIcrocontroller_&_Microprocessor.md)
+- [Specification of Arduino Uno](Contents/Specification_of_ArduinoUno.md)
+
+- [Installing Arduino IDE](Contents/Arduino_installing.md)
