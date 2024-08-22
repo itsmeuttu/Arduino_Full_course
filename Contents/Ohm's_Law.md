@@ -16,6 +16,9 @@ Where:
 
 
 here is another image 
+
+<br>
+
 ![alt text](<../Images/image copy 6.png>)
 
 
