@@ -5,7 +5,7 @@ Static electricity is the buildup of electrical charge on the surface of objects
 
 eg: when you rub a balloon against your hair
 
-![statics Electricity](Images/image.png)
+![alt text](../Images/image.png)
 
 
 eg: when you rub a balloon against your hair
@@ -15,4 +15,4 @@ Current electricity is the flow of electric charge through a conductor, typicall
 
 eg: When you plug a lamp into a power outlet, the electric current flows through the wire, allowing the lamp to light up.
 
-![current electricity](<Images/image copy.png>)
+![alt text](../Images/imagehj.png)

@@ -20,9 +20,9 @@ Unit of current is **Ampere**. It is denoted by **amp**
 <br> 
 
 
-![alt text](<Images/image copy 3.png>)
+![alt text](<../Images/image copy 3.png>)
 
 
 There are two types of Electric current:
-1. [DC Current](<DC_current.md>)
-2. [AC Current](<AC_curent.md>)
+1. [DC Current](<Contents/DC_current.md>)
+2. [AC Current](<Contents/AC_curent.md>)
