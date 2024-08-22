@@ -1,12 +1,12 @@
- ## Courrse Contents
+ ## Course Contents
 
- - [Electricity](Electricity.md)
+ - [Electricity](Contents/Electricity.md)
 
- - [Static and Current Electricity](<Static electricity Vs  Current Electricity.md>)
+ - [Static and Current Electricity](<Contents/Static electricity Vs  Current Electricity.md>)
 
- - [Volatage](Voltage.md)
+ - [Voltage](Contents/Voltage.md)
 
- - [Current](Current.md)
+ - [Current](Contents/Current.md)
 
  - [Resistance](Resisitance.md)
 
