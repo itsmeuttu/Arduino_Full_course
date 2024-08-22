@@ -7,4 +7,4 @@ There are two types of electrcity:
 
 2. [Current Electricity](<Static electricity Vs  Current Electricity.md>)
 
-![alt text](image.png)
+![alt text](<../Images/image copy 2.png>)
